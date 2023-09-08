@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 80px;
+}
+.orange-a{
+    text-decoration: none;
+    color: orange;
+}
+.mrb{
+    margin-bottom: 50px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+.Carousel{
+    padding: 20px 40px;
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+.crdsp{
+    margin: 20px 0;
+    padding: 10px;
+}
+.fs{
+    padding: 5px 0;
+}
+footer{
+    text-align: center;
+}
